@@ -1,0 +1,33 @@
+C:\Users\Usuario\Documents\Visual Studio 2017\Projects\SistemasDeCoordenadas\SistemasDeCoordenadas\bin\Debug\SistemasDeCoordenadas.exe.config
+C:\Users\Usuario\Documents\Visual Studio 2017\Projects\SistemasDeCoordenadas\SistemasDeCoordenadas\bin\Debug\SistemasDeCoordenadas.exe
+C:\Users\Usuario\Documents\Visual Studio 2017\Projects\SistemasDeCoordenadas\SistemasDeCoordenadas\bin\Debug\SistemasDeCoordenadas.pdb
+C:\Users\Usuario\Documents\Visual Studio 2017\Projects\SistemasDeCoordenadas\SistemasDeCoordenadas\obj\Debug\SistemasDeCoordenadas.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Documents\Visual Studio 2017\Projects\SistemasDeCoordenadas\SistemasDeCoordenadas\obj\Debug\SistemasDeCoordenadas.FormPrincipal.resources
+C:\Users\Usuario\Documents\Visual Studio 2017\Projects\SistemasDeCoordenadas\SistemasDeCoordenadas\obj\Debug\SistemasDeCoordenadas.Properties.Resources.resources
+C:\Users\Usuario\Documents\Visual Studio 2017\Projects\SistemasDeCoordenadas\SistemasDeCoordenadas\obj\Debug\SistemasDeCoordenadas.csproj.GenerateResource.Cache
+C:\Users\Usuario\Documents\Visual Studio 2017\Projects\SistemasDeCoordenadas\SistemasDeCoordenadas\obj\Debug\SistemasDeCoordenadas.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\Visual Studio 2017\Projects\SistemasDeCoordenadas\SistemasDeCoordenadas\obj\Debug\SistemasDeCoordenadas.exe
+C:\Users\Usuario\Documents\Visual Studio 2017\Projects\SistemasDeCoordenadas\SistemasDeCoordenadas\obj\Debug\SistemasDeCoordenadas.pdb
+C:\Users\Usuario\Documents\Semestre 6\Simulación por computadora\SistemasDeCoordenadas - Rectas\SistemasDeCoordenadas\bin\Debug\SistemasDeCoordenadas.exe.config
+C:\Users\Usuario\Documents\Semestre 6\Simulación por computadora\SistemasDeCoordenadas - Rectas\SistemasDeCoordenadas\bin\Debug\SistemasDeCoordenadas.exe
+C:\Users\Usuario\Documents\Semestre 6\Simulación por computadora\SistemasDeCoordenadas - Rectas\SistemasDeCoordenadas\bin\Debug\SistemasDeCoordenadas.pdb
+C:\Users\Usuario\Documents\Semestre 6\Simulación por computadora\SistemasDeCoordenadas - Rectas\SistemasDeCoordenadas\obj\Debug\SistemasDeCoordenadas.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Documents\Semestre 6\Simulación por computadora\SistemasDeCoordenadas - Rectas\SistemasDeCoordenadas\obj\Debug\SistemasDeCoordenadas.FormPrincipal.resources
+C:\Users\Usuario\Documents\Semestre 6\Simulación por computadora\SistemasDeCoordenadas - Rectas\SistemasDeCoordenadas\obj\Debug\SistemasDeCoordenadas.Properties.Resources.resources
+C:\Users\Usuario\Documents\Semestre 6\Simulación por computadora\SistemasDeCoordenadas - Rectas\SistemasDeCoordenadas\obj\Debug\SistemasDeCoordenadas.csproj.GenerateResource.Cache
+C:\Users\Usuario\Documents\Semestre 6\Simulación por computadora\SistemasDeCoordenadas - Rectas\SistemasDeCoordenadas\obj\Debug\SistemasDeCoordenadas.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\Semestre 6\Simulación por computadora\SistemasDeCoordenadas - Rectas\SistemasDeCoordenadas\obj\Debug\SistemasDeCoordenadas.exe
+C:\Users\Usuario\Documents\Semestre 6\Simulación por computadora\SistemasDeCoordenadas - Rectas\SistemasDeCoordenadas\obj\Debug\SistemasDeCoordenadas.pdb
+C:\Users\Usuario\Documents\Semestre 6\Simulación por computadora\SistemasDeCoordenadas - Transformaciones Rigidas\SistemasDeCoordenadas\bin\Debug\SistemasDeCoordenadas.exe.config
+C:\Users\Usuario\Documents\Semestre 6\Simulación por computadora\SistemasDeCoordenadas - Transformaciones Rigidas\SistemasDeCoordenadas\bin\Debug\SistemasDeCoordenadas.exe
+C:\Users\Usuario\Documents\Semestre 6\Simulación por computadora\SistemasDeCoordenadas - Transformaciones Rigidas\SistemasDeCoordenadas\bin\Debug\SistemasDeCoordenadas.pdb
+C:\Users\Usuario\Documents\Semestre 6\Simulación por computadora\SistemasDeCoordenadas - Transformaciones Rigidas\SistemasDeCoordenadas\bin\Debug\MathNet.Numerics.dll
+C:\Users\Usuario\Documents\Semestre 6\Simulación por computadora\SistemasDeCoordenadas - Transformaciones Rigidas\SistemasDeCoordenadas\bin\Debug\MathNet.Numerics.xml
+C:\Users\Usuario\Documents\Semestre 6\Simulación por computadora\SistemasDeCoordenadas - Transformaciones Rigidas\SistemasDeCoordenadas\obj\Debug\SistemasDeCoordenadas.csprojAssemblyReference.cache
+C:\Users\Usuario\Documents\Semestre 6\Simulación por computadora\SistemasDeCoordenadas - Transformaciones Rigidas\SistemasDeCoordenadas\obj\Debug\SistemasDeCoordenadas.FormPrincipal.resources
+C:\Users\Usuario\Documents\Semestre 6\Simulación por computadora\SistemasDeCoordenadas - Transformaciones Rigidas\SistemasDeCoordenadas\obj\Debug\SistemasDeCoordenadas.Properties.Resources.resources
+C:\Users\Usuario\Documents\Semestre 6\Simulación por computadora\SistemasDeCoordenadas - Transformaciones Rigidas\SistemasDeCoordenadas\obj\Debug\SistemasDeCoordenadas.csproj.GenerateResource.cache
+C:\Users\Usuario\Documents\Semestre 6\Simulación por computadora\SistemasDeCoordenadas - Transformaciones Rigidas\SistemasDeCoordenadas\obj\Debug\SistemasDeCoordenadas.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\Semestre 6\Simulación por computadora\SistemasDeCoordenadas - Transformaciones Rigidas\SistemasDeCoordenadas\obj\Debug\SistemasDeCoordenadas.csproj.CopyComplete
+C:\Users\Usuario\Documents\Semestre 6\Simulación por computadora\SistemasDeCoordenadas - Transformaciones Rigidas\SistemasDeCoordenadas\obj\Debug\SistemasDeCoordenadas.exe
+C:\Users\Usuario\Documents\Semestre 6\Simulación por computadora\SistemasDeCoordenadas - Transformaciones Rigidas\SistemasDeCoordenadas\obj\Debug\SistemasDeCoordenadas.pdb
